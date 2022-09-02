@@ -1,1 +1,1 @@
-# visual_adaptation
+# Implicit Motor Adaptation
